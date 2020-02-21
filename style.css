@@ -28,9 +28,17 @@ main {
   margin-right: 0;
 }
 
-.span {
+.blog-image {
+  height: 150px;
+}
+
+.step {
+  position: absolute;
+  top:0;
+  left: 0;
   background-color: orange;
-  font-color: white;
+  color: white;
+  padding: 3px;
 }
 
 .blog-image {
